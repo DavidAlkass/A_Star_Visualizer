@@ -1,1 +1,1 @@
-# Personal_projects
+<h1 align="center">A* visualizer in Python <img src="https://img.icons8.com/color/48/000000/python.png" width="30px"></h1>
